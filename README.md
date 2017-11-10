@@ -25,9 +25,11 @@ github地址 https://github.com/Tencent/mars
 python build_android.py
 ```
 ![image](http://note.youdao.com/yws/public/resource/3f60271d6e59c5c75fdb0da28af28425/xmlnote/802301E8E2A743818806CA850A26B59B/2330)
+
 <font color=red>运行时提示python版本必须为2.7xxx</font>
 
 ![image](http://note.youdao.com/yws/public/resource/3f60271d6e59c5c75fdb0da28af28425/xmlnote/92DC60725D694F85BCD7A88C5BAC656A/2333)
+
 <font color=red>运行时提示ndk版本要大于r11c</font>
 
 于是下载最新的android-ndk-r14b-windows-x86_64了运行
